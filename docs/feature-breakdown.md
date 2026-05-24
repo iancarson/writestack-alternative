@@ -120,7 +120,7 @@ WriteStack works by injecting into Substack's web interface through the browser 
 - Cloud-based, server-side publishing
 - No browser dependency
 
-→ [Start free trial at Narrareach](https://narrareach.com)
+→ [Start free trial at Narrareach](https://narrareach.com/vs/writestack)
 
 **Best use case:** Writers who want to distribute beyond Substack and need LinkedIn, Medium, and X automation alongside scheduling.
 

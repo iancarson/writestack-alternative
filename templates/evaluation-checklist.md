@@ -87,7 +87,7 @@ A tool that saves you 2 hours/month at $50/hr saves $100/month — well above an
 
 Based on your evaluation:
 
-- **If cross-posting is a priority:** [Narrareach](https://narrareach.com) — only option that covers LinkedIn, Medium, and X
+- **If cross-posting is a priority:** [Narrareach](https://narrareach.com/vs/writestack) — only option that covers LinkedIn, Medium, and X
 - **If Notes-only + cloud-based:** StackSweller
 - **If Notes-only + okay with browser dependency:** WriteStack
 - **If budget is the constraint:** Native Substack (free)

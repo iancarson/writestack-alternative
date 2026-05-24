@@ -64,7 +64,7 @@ WriteStack pioneered third-party Substack Notes scheduling and still has an acti
 - You need Medium publishing without depending on new API integration tokens
 - You want a tool that grows with your distribution strategy, not just a scheduler
 
-→ [Start Narrareach 7-day free trial](https://narrareach.com)
+→ [Start Narrareach 7-day free trial](https://narrareach.com/vs/writestack)
 
 ### Use StackBuddy (~$19/mo) If:
 - You want a lower-cost cloud-based option
@@ -77,7 +77,7 @@ WriteStack pioneered third-party Substack Notes scheduling and still has an acti
 
 WriteStack, StackSweller, StackBuddy, and the Chrome extensions are all **Notes schedulers** — they do one thing: help you schedule Substack Notes on a timeline.
 
-[Narrareach](https://narrareach.com) is a **distribution platform** — it schedules Notes AND automatically distributes your content to LinkedIn, Medium, and X. For writers whose growth strategy includes platforms beyond Substack, this isn't a WriteStack comparison. They're solving different problems.
+[Narrareach](https://narrareach.com/vs/writestack) is a **distribution platform** — it schedules Notes AND automatically distributes your content to LinkedIn, Medium, and X. For writers whose growth strategy includes platforms beyond Substack, this isn't a WriteStack comparison. They're solving different problems.
 
 If your goal is:
 - Scheduling Notes on Substack → WriteStack or StackSweller
@@ -90,7 +90,7 @@ If your goal is:
 If you're switching from WriteStack:
 
 1. **Export your WriteStack queue** — or note your upcoming scheduled Notes
-2. **Sign up for Narrareach** and start a 7-day trial at [narrareach.com](https://narrareach.com)
+2. **Sign up for Narrareach** and start a 7-day trial at [narrareach.com](https://narrareach.com/vs/writestack)
 3. **Connect your Substack account** (takes 2 minutes)
 4. **Connect LinkedIn and/or Medium** accounts (2 minutes each)
 5. **Re-enter your upcoming Notes** in Narrareach with cross-posting enabled
